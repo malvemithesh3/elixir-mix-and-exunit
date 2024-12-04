@@ -28,6 +28,8 @@ You can use the ListOps module directly from the Elixir shell to apply the list 
 
     iex -S mix
 
+<img width="776" alt="Screenshot 2024-12-05 022339" src="https://github.com/user-attachments/assets/a690d2b6-b9b7-4590-84ea-f6f29e3fda60">
+
 ## Call the functions:
 
 Sum: Calculates the sum of the list elements.
@@ -44,6 +46,8 @@ Reverse: Reverses the order of elements in the list.
 
     Listprograms.reverse([1, 2, 3, 4])
     Output: [4, 3, 2, 1]
+
+<img width="767" alt="Screenshot 2024-12-05 022653" src="https://github.com/user-attachments/assets/6c3e44b1-3d07-4e1c-b55e-bb1ae669f9d3">
 
 ## Installation
 
